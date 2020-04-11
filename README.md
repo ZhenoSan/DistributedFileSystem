@@ -18,6 +18,9 @@ open Terminal and type 'python3 dfs-cli.py' to run client program
 
 ### Dependencies
 •	The current system only supports a UNIX environment.
+
 •	Before running the program, it is necessary to ensure that the xattr library for python3 has been installed. This library allows for editing extended attributes of a file.
+
 •	The network that the system is running on must allow for multicast of messages.
+
 •	A folder called ‘root’ must be present at the location of the server program file.
